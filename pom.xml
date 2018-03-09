@@ -13,6 +13,7 @@
     <groupId>com.github.edgar615</groupId>
     <artifactId>microservice-dependencies</artifactId>
     <version>0.0.1.RELEASE</version>
+	<packaging>pom</packaging>
 
     <properties>
         <argLine>-Dfile.encoding=UTF-8</argLine>
