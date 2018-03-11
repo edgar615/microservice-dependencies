@@ -117,6 +117,12 @@
                 <version>${log4jdbc.version}</version>
             </dependency>
 
+            <dependency>
+                <groupId>com.github.edgar615</groupId>
+                <artifactId>spring-boot-eventbus-kafka</artifactId>
+                <version>${eventbus.util.version}</version>
+            </dependency>
+            
             <!--日志-->
             <dependency>
                 <groupId>org.slf4j</groupId>
